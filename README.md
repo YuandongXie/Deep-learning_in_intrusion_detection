@@ -6,4 +6,4 @@ python run_experiments.py experiment_specs\selected_model_tests\selected_ae_ann.
 
 3.The main frame comes from this paper:Sunanda Gamage et al.Deep learning methods in network intrusion detection:A survey and an objective comparison,yet they used an ancient version of tensorflow(1.12.0),which is evenly not able in most mirror sites,which lead to a set of problems.
 
-4.The pickle module used to save trained models also didn't perform well on windows,nonetheless,it can still get loss function value normaly,so it's acceptable
+4.The pickle module used to save trained models also didn't perform well on windows,nonetheless,it can still get loss function value normaly,so it's acceptable,but there could be unexpected problem
